@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/salemebasumata58/mockpractice/issues"
   },
-  "homepage": "https://github.com/salemebasumata58/mockpractice#readme"
+  "homepage": "https://github.com/salemebasumata58/mockpractice#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
